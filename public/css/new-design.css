@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt:300,400');
+
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+.bg-header {
+    background-color: #eeeeee;
+    margin: 0px -20px 0px -20px;
+}
+
+.setlogo {
+    padding: 20px;
+}
+
+.textcenter {
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 10px 0px 10px 0px;
+    bottom: 0;
+}
+
+.font-btn {
+    font-size: 20px;
+}
+
+.texthead {
+    font-size: 35px;
+    color: #3f3f3f;
+    text-align: left;
+}
+
+.textcontent {
+    font-size: 20px;
+    text-align: left;
+    color: #727171;
+}
+.textcontent2{
+    font-size: 18px;
+    text-align: left;
+    color: #727171;
+}
+
+.btn-line {
+    background-color: #00cc1d;
+    color: #fff;
+}
+
+.btn-line:hover {
+    background-color: #1fbf06;
+}
+
+.size-line{
+    width:35px; 
+    height:35px; 
+    margin: -8px -12px -10px -12px;
+}
+
+.btn-fb {
+    background-color: #3b5998;
+    color: #fff; 
+}
+
+.btn-fb:hover {
+    background-color: #344e86;
+    color: #fff; 
+}
+
+.btn-youtube{
+    background-color: #e53d35;
+    color: #fff; 
+}
+.btn-youtube:hover {
+    background-color: #E62117;
+    color: #fff; 
+}
+
+.btn-instagram {
+    background-color: #252525;
+    color: #fff; 
+}
+.btn-instagram:hover {
+    background-color: #000000;
+    color: #fff; 
+}
